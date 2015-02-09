@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: ""
 url: "http://blog.nandodrw.com"
 
 # THEME-SPECIFIC CONFIGURATION
