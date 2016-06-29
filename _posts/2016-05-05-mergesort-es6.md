@@ -29,7 +29,7 @@ For example, the image below shows a list of elements: [6, 5, 3, 1, 8, 7, 2, 4].
 
 On the list joining phase, the algorithm starts joining the single element lists into: [5, 6], [1, 3], [7, 8], [2, 4] — sorting them each time it does — . Then the process continues to [1, 3, 5, 6], [2, 4, 7, 8] and finally [1, 2, 3, 4, 5, 6, 7 ,8].
 
-![Mergesot ilustration from Wikipedia](assets/img/mergesort.gif')
+![Mergesot ilustration from Wikipedia](/assets/img/mergesort.gif')
 
 ## Go to the implementation 
 
@@ -69,12 +69,18 @@ Finally the whole code for an ES6 friendly environment, including a testing call
 
 To run this code in your local Node 6.2.0 just type on the console:
 
-`node mergesort-complete-es6.js`
+```
+node mergesort-complete-es6.js
+```
 
 Or in Node 5.0.0:
 
-`node --harmony_default_parameters --harmony_destructuring mergesort-complete-es6.js`
+```
+node --harmony_default_parameters --harmony_destructuring mergesort-complete-es6.js
+```
 
 I you are not sure of which version of Node JS you have, you can type:
 
-`node -v`
+```
+node -v
+```
