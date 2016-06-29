@@ -29,7 +29,9 @@ For example, the image below shows a list of elements: [6, 5, 3, 1, 8, 7, 2, 4].
 
 On the list joining phase, the algorithm starts joining the single element lists into: [5, 6], [1, 3], [7, 8], [2, 4] — sorting them each time it does — . Then the process continues to [1, 3, 5, 6], [2, 4, 7, 8] and finally [1, 2, 3, 4, 5, 6, 7 ,8].
 
+
 ![Mergesot ilustration from Wikipedia]({{ site.url }}/assets/img/mergesort.gif)
+
 
 ## Go to the implementation 
 
