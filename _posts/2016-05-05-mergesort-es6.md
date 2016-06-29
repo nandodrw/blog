@@ -3,13 +3,7 @@ layout: post
 title:  "Merge sort, JavaScript and ECMAScript 2015 (ES6)"
 date:   2016-05-05
 excerpt: "Minimal, one column Jekyll theme for your blog."
-project: true
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+tags: [code, es6, mergesort]
 comments: true
 ---
 
