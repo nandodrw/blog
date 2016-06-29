@@ -3,7 +3,7 @@ layout: post
 title: "New free styles challenges"
 date: 2016-06-29
 excerpt: "Why and how I'm planning my jurney to full time freelancing."
-tags: [freelancing, jurney, code]
+tags: [freelancing, journey, code]
 comments: true
 ---
 
