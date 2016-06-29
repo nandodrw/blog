@@ -1,5 +1,5 @@
 # Site
-title:              Nando.drw
+title:              'Nando.drw'
 bio:                'Some code, some art and some 3d graphics drama'
 description:        ""
 reading_time:       true
@@ -38,7 +38,7 @@ disqus_shortname:   nandodrw
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            @nandodrw
+twitter:            nandodrw
 #facebook:           username
 github:             nandodrw
 stackoverflow:      3761840/user3761840
